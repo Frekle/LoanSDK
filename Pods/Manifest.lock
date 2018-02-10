@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (4.6.0)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - IQKeyboardManagerSwift (5.0.7)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.12)
+  - ObjectMapper (3.1.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SnapKit (4.0.0)
+  - UIActivityIndicator-for-SDWebImage (1.2):
+    - SDWebImage (~> 3.7)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - FMDB (= 2.6.2)
+  - IQKeyboardManagerSwift (= 5.0.7)
+  - MBProgressHUD (= 0.9.2)
+  - MJRefresh (= 3.1.12)
+  - ObjectMapper
+  - SnapKit
+  - UIActivityIndicator-for-SDWebImage (= 1.2)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  IQKeyboardManagerSwift: 30fb3a61de1af53a95e02b80fb54ed0a19d5ede5
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  UIActivityIndicator-for-SDWebImage: 7bf7ebbf0ed1747dedc0d6e949c4603a6d0f9e0c
+
+PODFILE CHECKSUM: 0fd1321ea62829bbb9b149440fc1f5964d625683
+
+COCOAPODS: 1.2.0
